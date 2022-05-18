@@ -1,4 +1,4 @@
 outs:
-- md5: 54fb1be8d95ba778ba09289b5805220e
-  size: 35266
+- md5: 4c3b154be67ef9a1654c46298224b884
+  size: 35200
   path: boston_house_prices.csv
